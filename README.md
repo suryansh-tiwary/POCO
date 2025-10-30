@@ -145,9 +145,4 @@ broadcast Hello everyone!
 
 ---
 
-## 👤 Author
 
-**Shubhaaaaam**  
-Developed during a focused 5-day P2P sprint using C++17 and Poco.
-
-> ⭐️ Star this project if you found it helpful!
